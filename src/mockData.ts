@@ -40,12 +40,27 @@ export const mockPortfolio = {
       price: 15.25,
     },
     {
+      id: 8,
+      asset: "b45f3cce-cfe3-42bf-b51b-e9e00148e159",
+      quantity: 89,
+      asOf: "2020-07-04T00:00:00Z",
+      price: 450,
+    },
+    {
+      id: 12,
+      asset: "b955f6fe-acd1-4345-9c44-955684d921bf3",
+      quantity: 1000,
+      asOf: "2021-05-09T00:00:00Z",
+      price: 1.3,
+    },
+    {
       id: 5,
       asset: "b45f3cce-cfe3-42bf-b51b-e9e00148e159",
       quantity: 50,
       asOf: "2022-02-04T00:00:00Z",
       price: 476,
     },
+
     {
       id: 6,
       asset: "a3861bf6-e496-45e6-afe4-385b0cf15fb3",
