@@ -52,8 +52,8 @@ function Dashboard() {
           <DonutChart />
         </div>
       </div>
-      <div>
-        <div className="w-4/5">
+      <div className="flex space-x-8 py-6">
+        <div className="flex flex-col rounded-md border w-full p-8 justify-center">
           <HistoricalChart />
         </div>
       </div>
